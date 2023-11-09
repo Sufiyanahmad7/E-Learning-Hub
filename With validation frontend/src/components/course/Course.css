@@ -1,0 +1,19 @@
+
+
+/* .courseSidebar  a,span,i{
+    color: #000;
+  } */
+
+  .courseSidebar{
+    background-color: #F9AA33;
+  }
+
+  .courseSidebar hr{
+    width: 100%;
+    color: #000;
+  }
+
+  .vid{
+    width: 100%;
+    height: 100%;
+  }

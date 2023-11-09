@@ -1,0 +1,31 @@
+.homeScreen {
+  height: 600px;
+  width: 100vw;
+  /* opacity: 0.4; */
+  }
+
+img {
+ object-fit: cover;
+}
+
+.wel{
+  z-index: 9;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+ 
+
+.sidebar{
+  background-color: #3700B3;
+}
+
+.sidebar > a,span,i{
+  color: #fff;
+}
+
+
+
+
+
